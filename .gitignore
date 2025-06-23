@@ -1,0 +1,12 @@
+/node_modules
+/.svelte-kit
+/build
+/dist
+.env
+.env.*
+!.env.example
+
+/reference
+
+# End of project specific
+# End of SvelteKit specific 
